@@ -1,0 +1,2 @@
+It's very important bla bla bla
+This is second commit feature branch
